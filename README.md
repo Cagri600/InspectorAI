@@ -12,7 +12,7 @@ InspectorAI verbindet ein natives Windows-Dashboard, einen lesenden Gesundheitsc
 
 Eine 1:46 Minuten lange Demonstration meiner Windows-Anwendung mit Systemdiagnose, Gesundheitscheck und lokalem KI-Assistenten.
 
-https://github.com/user-attachments/assets/82453db8-5b6e-40b6-a8eb-1f89e8060d5b
+https://github.com/user-attachments/assets/773d288e-1850-447c-97a7-271c776278d4
 
 ## Funktionen
 
